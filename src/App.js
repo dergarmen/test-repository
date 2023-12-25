@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const greeting = "Это тестовый проект Гудилин Д.С.";
+  const greeting = "Это тестовый проект Гудилин Д.С. ";
 
   console.log('This is App ');
   return (
